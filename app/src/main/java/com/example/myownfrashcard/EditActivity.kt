@@ -31,7 +31,7 @@ class EditActivity : AppCompatActivity() {
         }
 
         buttonBack2.setOnClickListener {
-
+            finish()
         }
 
     }
